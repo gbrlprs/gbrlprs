@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  and I am a researcher currently working on an open source intelligence gathering framework called <strong>seekfind</strong>
+  and I am a security researcher currently working on an open source intelligence gathering framework called <strong>seekfind</strong>
 </p>
 
 <hr>
@@ -48,10 +48,10 @@
   <strong>defensive security & monitoring:</strong> SIEM (Splunk), EDR (CrowdStrike), Wireshark<br><br>
   <strong>programming & scripting:</strong> Python, R, Shell Script, Bash, SQL (MySQL)<br><br>
   <strong>incident response & forensics:</strong> Preparation, Detection and Analysis, Containment, Eradication, Recovery, Post-incident<br><br>
-  <strong><a href="https://tryhackme.com/p/gbrlprs">THM</a></strong><br>
-  <strong>MITRE ATT&CK®</strong><br>
-  <strong>ISO/IEC 27001</strong><br>
-  <strong>LGPD/GDPR</strong>
+  <strong><a href="https://tryhackme.com/p/gbrlprs">THM</a></strong><br><br>
+  <strong>MITRE ATT&CK®</strong><br><br>
+  <strong>ISO/IEC 27001</strong><br><br>
+  <strong>LGPD/GDPR</strong><br><br>
 </p>
 
 <hr>
