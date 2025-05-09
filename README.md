@@ -13,13 +13,13 @@
 <hr>
 
 <p align="center">
-  <h2>heads up on the project:</h2>
+  <h2>the project objectives:</h2>
 </p>
 
 <p align="center">
-  - it will be sold as a private closed-source software for security companies or agencies.<br>
-  - it will have zero fancy interfaces, but a simple yet large gui for convenience.<br>
-  - no, it won't look like a thirty year old software.
+  ► it will be sold as a private closed-source software for security companies or agencies.<br>
+  ► it will have zero fancy interfaces, but a simple yet large gui for convenience.<br>
+  ► no, it won't look like a thirty year old software.
 </p>
 
 <hr>
@@ -29,30 +29,24 @@
 </p>
 
 <p align="center">
-  - security research<br>
-  - purple teaming<br>
-  - computational neuroscience (specifically neurophysiological identification and diagnosis through fMRI machinery - neuroimaging refinement)<br>
-  - toolmaking and automation (specifically automatized self-developed tools and training for .99 accuracy)
+  ► researcher (security, artificial intelligence and neuroscience)<br>
+  ► purple teaming (defense for self-owned business, website, etc. & developing of an attacking osint tool)<br>
+  ► computational neuroscience (neurophysiological identification and diagnosis through fMRI machinery - neuroimaging refinement)<br>
+  ► toolmaking and automation (automatized self-developed tools and training for .99 accuracy)
 </p>
 
-<hr>
+<h2>skills:</h2>
 
-<p align="center">
-  <h2>skills:</h2>
-</p>
-
-<p align="center">
-  <strong>operating systems & platforms:</strong> Windows, Linux (Kali, Parrot, Arch, +)<br><br>
-  <strong>networks & infrastructure:</strong> OSI/TCP-IP protocols, OSPF, BGP, DNS, firewalls, NAT, VPNs, proxies<br><br>
-  <strong>offensive security & pentesting:</strong> Nmap, Sqlmap, Metasploit<br><br>
-  <strong>defensive security & monitoring:</strong> SIEM (Splunk), EDR (CrowdStrike), Wireshark<br><br>
-  <strong>programming & scripting:</strong> Python, R, Shell Script, Bash, SQL (MySQL)<br><br>
-  <strong>incident response & forensics:</strong> Preparation, Detection and Analysis, Containment, Eradication, Recovery, Post-incident<br><br>
-  <strong><a href="https://tryhackme.com/p/gbrlprs">THM</a></strong><br><br>
-  <strong>MITRE ATT&CK®</strong><br><br>
-  <strong>ISO/IEC 27001</strong><br><br>
-  <strong>LGPD/GDPR</strong><br><br>
-</p>
+<p>operating systems & platforms: Windows, Linux (Kali, Parrot, Arch, +)</p>
+<p>networks & infrastructure: OSI/TCP-IP protocols, OSPF, BGP, DNS, firewalls, NAT, VPNs, proxies</p>
+<p>offensive security & pentesting: Nmap, Sqlmap, Metasploit</p>
+<p>defensive security & monitoring: SIEM (Splunk), EDR (CrowdStrike), Wireshark</p>
+<p>programming & scripting: Python, R, Shell Script, Bash, SQL (MySQL)</p>
+<p>Incident Response & Forensics: Preparation, Detection and Analysis, Containment, Eradication, Recovery, Post-incident</p>
+<p><a href="https://tryhackme.com/p/gbrlprs">THM</a></p>
+<p>MITRE ATT&CK®</p>
+<p>ISO/IEC 27001</p>
+<p>LGPD/GDPR</p>
 
 <hr>
 
