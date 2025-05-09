@@ -1,16 +1,76 @@
-## Hi there 👋
+<p align="center">
+  <h1>about me:</h1>
+</p>
 
-<!--
-**gbrlprs/gbrlprs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  hi, I'm Gabriel
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  and I am a researcher currently working on an open source intelligence gathering framework called <strong>seekfind</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+<p align="center">
+  <h2>heads up on the project:</h2>
+</p>
+
+<p align="center">
+  - it will be sold as a private closed-source software for security companies or agencies.<br>
+  - it will have zero fancy interfaces, but a simple yet large gui for convenience.<br>
+  - no, it won't look like a thirty year old software.
+</p>
+
+<hr>
+
+<p align="center">
+  <h2>interests:</h2>
+</p>
+
+<p align="center">
+  - security research<br>
+  - purple teaming<br>
+  - computational neuroscience (specifically neurophysiological identification and diagnosis through fMRI machinery - neuroimaging refinement)<br>
+  - toolmaking and automation (specifically automatized self-developed tools and training for .99 accuracy)
+</p>
+
+<hr>
+
+<p align="center">
+  <h2>skills:</h2>
+</p>
+
+<p align="center">
+  <strong>operating systems & platforms:</strong> Windows, Linux (Kali, Parrot, Arch, +)<br><br>
+  <strong>networks & infrastructure:</strong> OSI/TCP-IP protocols, OSPF, BGP, DNS, firewalls, NAT, VPNs, proxies<br><br>
+  <strong>offensive security & pentesting:</strong> Nmap, Sqlmap, Metasploit<br><br>
+  <strong>defensive security & monitoring:</strong> SIEM (Splunk), EDR (CrowdStrike), Wireshark<br><br>
+  <strong>programming & scripting:</strong> Python, R, Shell Script, Bash, SQL (MySQL)<br><br>
+  <strong>incident response & forensics:</strong> Preparation, Detection and Analysis, Containment, Eradication, Recovery, Post-incident<br><br>
+  <strong><a href="https://tryhackme.com/p/gbrlprs">THM</a></strong><br>
+  <strong>MITRE ATT&CK®</strong><br>
+  <strong>ISO/IEC 27001</strong><br>
+  <strong>LGPD/GDPR</strong>
+</p>
+
+<hr>
+
+<p align="center">
+  <h2>projects:</h2>
+</p>
+
+<p align="center">
+  most repositories are private due to NDAs or under development.<br>
+  selected public tools and write-ups will be published here over time.
+</p>
+
+<hr>
+
+<p align="center">
+  <h2>contact:</h2>
+</p>
+
+<p align="center">
+  no DMs. if necessary, reach me via email listed on my GitHub profile.
+</p>
