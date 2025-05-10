@@ -17,10 +17,13 @@
 </p>
 
 <p align="center">
-  ► it will be sold as a private closed-source software for security companies or agencies.<br>
-  ► it will have zero fancy interfaces, but a simple yet large gui for convenience.<br>
-  ► no, it won't look like a thirty year old software.
+  ► seekfind is built with open source intelligence principles, but its full capabilities are reserved for serious use.<br>
+  ► a private, closed-source version will be licensed to security firms, intelligence agencies, and governmental bodies.<br>
+  ► the open-source limited of it will be available right here on this repo and you can use it as well.<br>
+  ► no flashy GUI—just a clean, practical interface designed for real work, not aesthetics.<br>
+  ► function comes first. this isn't retro software; it's purpose-built for the present.
 </p>
+
 
 <hr>
 
