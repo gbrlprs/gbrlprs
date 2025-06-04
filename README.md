@@ -7,35 +7,33 @@
 </p>
 
 <p align="center">
-  and I am a security researcher currently working on an open source intelligence gathering framework called <strong>seekfind</strong>
+  I'm a security researcher focused on open source intelligence, offensive security, and the intersection of artificial intelligence and neuroscience.  
 </p>
 
 <hr>
 
+
+
 <p align="center">
-  <h2>the project objectives:</h2>
+  <h2>research fields:</h2>
 </p>
 
-<p align="center">
-  ► seekfind is built with open source intelligence principles, but its full capabilities are reserved for serious use.<br>
-  ► a private, closed-source version will be licensed to security firms, intelligence agencies, and governmental bodies.<br>
-  ► the open-source limited of it will be available right here on this repo and you can use it as well.<br>
-  ► no flashy GUI—just a clean, practical interface designed for real work, not aesthetics.<br>
-  ► function comes first. this isn't retro software; it's purpose-built for the present.
-</p>
+► **security, artificial intelligence, and neuroscience research**  
 
+I operate at the intersection of three complex domains — researching advanced security systems, building AI-driven security tools, and exploring cognitive function through applied neuroscience.
 
-<hr>
+► **purple teaming for real-world infrastructure**  
 
-<p align="center">
-  <h2>interests:</h2>
-</p>
+I develop and deploy both offensive and defensive strategies for self-hosted environments and independent systems. this includes securing infrastructure and crafting custom attack tools — like seekfind — for intelligence collection, threat emulation, and adversarial testing.
 
-<p align="center">
-  ► researcher (security, artificial intelligence and neuroscience)<br>
-  ► purple teaming (defense for self-owned business, website, etc. & developing of an attacking osint tool)<br>
-  ► computational neuroscience (neurophysiological identification and diagnosis through fMRI machinery - neuroimaging refinement)<br>
-  ► toolmaking and automation (automatized self-developed tools and training for .99 accuracy)
+► **computational neuroscience & neuroimaging**  
+
+I study and work on computational models of the brain, particularly around fMRI signal interpretation and diagnostic refinement. my goal: advancing machine-assisted neurophysiological identification aiming at image-assisted DSM-V Tr diagnosis.
+
+► **automation & precision toolmaking** 
+
+I create minimalistically precise, self and collective developed tools built for speed, stealth, and accuracy — some trained to reach .99+ precision in their domain (AI modeling specifically). automation isn't an afterthought — it's a fundamental part of my workflow.
+
 </p>
 
 <h2>skills:</h2>
@@ -46,7 +44,8 @@
 <p>defensive security & monitoring: SIEM (Splunk), EDR (CrowdStrike), Wireshark</p>
 <p>programming & scripting: Python, R, Shell Script, Bash, SQL (MySQL)</p>
 <p>Incident Response & Forensics: Preparation, Detection and Analysis, Containment, Eradication, Recovery, Post-incident</p>
-<p><a href="https://tryhackme.com/p/gbrlprs">THM</a></p>
+<p><a href="https://tryhackme.com/p/gbrlprs">TryHackMe</a>
+<p><a href="https://app.hackthebox.com/profile/2021997">HackTheBox</a></p> 
 <p>MITRE ATT&CK®</p>
 <p>ISO/IEC 27001</p>
 <p>LGPD/GDPR</p>
@@ -58,7 +57,7 @@
 </p>
 
 <p align="center">
-  most repositories are private due to NDAs or under development.<br>
+  most repositories are private due to NDAs or under development outside GitHub.<br>
   selected public tools and write-ups will be published here over time.
 </p>
 
@@ -69,5 +68,6 @@
 </p>
 
 <p align="center">
-  no DMs. if necessary, reach me via email listed on my GitHub profile.
+  no direct messages.  
+  if necessary, email me via the address listed on my github profile.
 </p>
