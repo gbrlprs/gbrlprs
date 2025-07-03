@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  I'm a security researcher focused on open source intelligence, offensive security, and the intersection of artificial intelligence and neuroscience.  
+  I'm a security researcher focused on open source intelligence, offensive security, and the intersection of artificial intelligence and cybersecurity.  
 </p>
 
 <hr>
