@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
- I’m a security-focused computer science student and researcher interested in offensive security, open-source intelligence, and the growing overlap between artificial intelligence and cybersecurity. my work is centered on learning by constructing, testing, and deconstructing real systems.  
+ I’m a cybersecurity researcher interested in offensive security, open-source intelligence, and the growing overlap between artificial intelligence and cybersecurity. my work is centered on learning by constructing, testing, and deconstructing real systems.  
 </p>
 
 <hr>
@@ -18,6 +18,10 @@
   <h2>research fields:</h2>
 </p>
 
+► **(primary focus / personal forte) cyber threat intelligence analysis**
+
+I have a profound interest in cyber threat intelligence analysis, particularly in tracking threat actors, mapping infrastructure, and understanding the geopolitical context behind cyber operations. this is my main area of focus and personal forte, with an emphasis on deep analysis, methodology refinement, and real-world case investigation.
+
 ► **security and artificial intelligence**  
 
 I study how machine learning can be applied to security problems such as detection, automation, pattern analysis, and adversarial behavior. current interests include practical ML pipelines, model evaluation, and understanding the limits of AI in security contexts.
@@ -25,10 +29,6 @@ I study how machine learning can be applied to security problems such as detecti
 ► **purple teaming for real-world infrastructure**  
 
 I experiment with both offensive and defensive techniques in lab and homelab environments. this includes configuring infrastructure, identifying attack paths, simulating threats, and improving monitoring and response workflows.
-
-► **(occasional/side-linked research) computational neuroscience & neuroimaging**  
-
-I have an academic interest in computational neuroscience (originated by reference on the publishing of papers in the same field), particularly fMRI data analysis and signal interpretation. this is currently a side area of study, with a focus on understanding methodologies rather than producing original clinical research.
 
 ► **automation & precision toolmaking** 
 
