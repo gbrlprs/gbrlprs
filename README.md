@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
- I’m a cybersecurity researcher interested in offensive security, open-source intelligence, and the growing overlap between artificial intelligence and cybersecurity. my work is centered on learning by constructing, testing, and deconstructing real systems.  
+ I’m a cybersecurity researcher interested in intelligence in general, more specifically: open-source intelligence, and the growing overlap between artificial intelligence and cybersecurity. my work is centered on learning by constructing, tes, and deconstructing real systems.  
 </p>
 
 <hr>
@@ -55,10 +55,11 @@ I create minimalistically precise, self and collective developed tools built for
 <hr>
 
 <p align="center">
-  <h2>projects:</h2>
-</p>
+  
+  <h2>projects in full:</h2>
+  <h3><a href="https://gbrlprs.ch">        gbrlprs.ch        </a></h3> 
 
-<p align="center">
+  side note:
   most repositories are private due to NDAs or under development outside GitHub.<br>
   selected public tools and write-ups will be published here over time.
 </p>
